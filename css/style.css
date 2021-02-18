@@ -8,8 +8,8 @@ body{
     background-color: rgb(131, 49, 131);
 }
 main{
-    color: white;
-    background-color: rgba(204, 204, 204, 0.39);
+    color: #333;
+    background-color: rgb(255, 255, 255);
     width: 500px;
     height: auto;
     padding:  20px;
