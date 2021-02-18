@@ -10,8 +10,18 @@ body{
 main{
     color: #333;
     background-color: rgb(255, 255, 255);
-    width: 600px;
+    width: 540px;
     height: auto;
-    padding:  20px;
+    padding: 20px;
     margin: auto;
+}
+iframe{
+    padding: 20px 0;
+}
+p{   
+    margin: 5px 0;
+}
+a{
+    text-decoration: none;
+    color: purple; 
 }
